@@ -1,0 +1,7 @@
+path: C:\Users\model\ultralytics-yolo11-main.mg12.5\data\yolo-fenge-ore # dataset root dir
+train: images/train # train images
+val: images/val # val images
+
+# Classes
+names:
+  0: ore
